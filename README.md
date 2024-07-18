@@ -1,1 +1,1 @@
-# Prkinsons_disease_detection
+# Parkinsons_disease_detection
